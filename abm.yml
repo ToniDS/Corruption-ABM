@@ -1,0 +1,17 @@
+name: abm 
+dependencies:
+- ipykernel
+- ipywidgets
+- matplotlib
+- jupyter
+- mesa 
+- nbconvert
+- notebook
+- pandas
+- pytest
+- python
+- numpy
+- scikit-learn
+- scipy
+- seaborn
+- statsmodels
