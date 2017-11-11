@@ -3,6 +3,7 @@ from mesa.time import StagedActivation
 import numpy as np
 from mesa.datacollection import DataCollector
 import random
+from Agent import CorruptionAgent
 
 def total_capital(model):
     """ Determine total capital of the model as sum of all the agents' capitals"""

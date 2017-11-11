@@ -1,6 +1,8 @@
 from mesa import Agent
 from mesa.time import StagedActivation
 from mesa.datacollection import DataCollector
+from model import *
+import numpy as np
 import random
 
 class CorruptionAgent(Agent):
